@@ -1,9 +1,13 @@
 # Bellande Creation Collection Photos
+This repository is a collection on publickly collected image of bellande application or provate application photos that has been displayed in a presentation, video, pdf, research paper, article or more
 
-## Desktop Application
+## Bellande Operating System
+- Structured
+
+## Bellande Desktop Application
 - No web assotiation for creation
 
-## Mobile Application
+## Bellande Mobile Application
 - No web assotiation for creation
 
 ## Web Application
