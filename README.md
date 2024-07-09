@@ -1,5 +1,5 @@
 # Bellande Creation Collection Photos
-This repository is a collection on publickly collected image of bellande application or provided application photos that has been displayed in a presentation, video, pdf, research paper, article or more
+This repository is a collection on publicly collected image of bellande application or provided application photos that has been displayed in a presentation, video, pdf, research paper, article or more
 
 ## Bellande Operating System
 - Structured
